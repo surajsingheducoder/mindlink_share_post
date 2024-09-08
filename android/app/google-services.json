@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454396059628",
+    "project_id": "flutterprojects-50e69",
+    "storage_bucket": "flutterprojects-50e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454396059628:android:41d7e6d7d5a9e797e62ac9",
+        "android_client_info": {
+          "package_name": "com.example.mindlink_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAET171WtzTUksMzVf9HKL8uRk175Fs6fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454396059628:android:aae0c8bd6777272fe62ac9",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAET171WtzTUksMzVf9HKL8uRk175Fs6fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
